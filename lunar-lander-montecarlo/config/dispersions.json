@@ -1,0 +1,14 @@
+{
+    "description": "1-sigma dispersions for Monte Carlo. Tuned for 2km/60mps terminal descent.",
+    "alt_bias_sigma": 30.0,
+    "v_vert_bias_sigma": 1.5,
+    "v_horiz_bias_sigma": 2.0,
+    "thrust_scale_sigma": 0.01,
+    "thrust_noise_sigma": 0.005,
+    "Isp_bias_sigma": 2.0,
+    "mass_bias_sigma": 3.0,
+    "sigma_alt_mean": 2.0,
+    "sigma_alt_sigma": 0.5,
+    "sigma_vel_mean": 0.15,
+    "sigma_vel_sigma": 0.03
+}

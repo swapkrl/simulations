@@ -1,0 +1,14 @@
+# Build & IDE
+__pycache__/
+*.pyc
+.venv/
+.vs/
+.vscode/
+.idea/
+
+# Output
+output/
+
+# OS
+Thumbs.db
+.DS_Store
