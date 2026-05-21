@@ -18,4 +18,4 @@ Rigid-body attitude dynamics simulator with a closed-loop quaternion-based PD co
 - **C++17** (CMake) — N-Body Orbital Propagator
 
 ## License
-See individual project directories for details.
+MIT 2026
